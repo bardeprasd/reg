@@ -1,0 +1,21 @@
+.top-nav {
+    background-color: #fff;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .breadcrumb {
+    font-size: 14px;
+  }
+  
+  .user-info {
+    font-size: 14px;
+  }
+  
+  .user-info a {
+    color: #a156c1;
+    text-decoration: none;
+  }
+  

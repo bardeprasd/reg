@@ -1,0 +1,38 @@
+.sidebar {
+    width: 250px;
+    background-color: #2e3b4e;
+    color: #fff;
+    height: 100vh;
+    position: fixed;
+    padding: 20px;
+  }
+  
+  .logo {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .menu {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menu li {
+    padding: 10px 0;
+    cursor: pointer;
+  }
+  
+  .menu li.active {
+    color: #a156c1;
+  }
+  
+  .tools {
+    margin-top: 40px;
+  }
+  
+  .tools h4 {
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
